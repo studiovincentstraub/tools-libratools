@@ -17,21 +17,13 @@ pip install git+https://github.com/vincejstraub/tools-libratools.git
 
 ## Documentation
 
-The package functions are conveniently documented at the package website: https://vincejstraub.github.io/tools-libratools/.
+The package functions are conveniently documented at the package website: https://studiovincentstraub.github.io/tools-libratools/.
 
 For more information see the project [Wiki](https://github.com/studiovincentstraub/tools-libratools/wiki). 
 
 ## License
 
 This project is licensed under a MIT License; see [LICENSE](https://github.com/studiovincentstraub/tools-libratools/blob/main/LICENSE) for details. By downloading libratools you agree with the following points: libratools is provided without any warranty or conditions of any kind. We assume no responsibility for errors or omissions in the results and interpretations following from application of libratools.
-
-## Contributing
-
-Please read ____ for details on code conventions, and the process for submitting changes via pull requests.
-
-## Maintenance
-
-* [Vincent J. Straub](https://github.com/studiovincentstraub)  
 
 ## Requirements
 
